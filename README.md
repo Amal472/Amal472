@@ -7,17 +7,12 @@ Here are some ideas to get you started:
   
 - 🌱 I’m currently learning Python ,Java Etc..
 - 👯 I’m looking to collaborate 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 ![Visitor Count](https://profile-counter.glitch.me/amal472/count.svg)
 
 - 🌱 I’m currently learning.
 - 👯 I’m looking to collaborate with other researchers and creators
-- 🥅 2020 Goals: Learn
-
-
 
 <img align="left" alt="amal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amal472&show_icons=true&hide_border=true" />
 
